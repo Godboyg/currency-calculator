@@ -60,6 +60,11 @@ form input{
     margin-top: 1rem;
 }
 
+.dropdown i{
+    margin: 1rem;
+    font-size: 1.5rem;
+}
+
 .select-container img{
     max-width: 1.75rem;
     height: 2rem;
